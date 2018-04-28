@@ -4,7 +4,9 @@ Class first
  public void main(string args[])
  {
    c=a+b;
-   System.out.println("The sum of the given numbers is:",c):
+   System.out.println("Hi everyone");
+   System.out.println("The sum of the given numbers is:",c);
+   
   }
  }
  
