@@ -7,6 +7,7 @@ class second
 		{
 			sum=sum+i;
 			System.out.println(sum);
+			ghjklkjhg
 		}
 	}
 }
