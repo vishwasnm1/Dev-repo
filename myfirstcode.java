@@ -7,7 +7,8 @@ Class first
    System.out.println("Hi everyone");
    System.out.println("The sum of the given numbers is:",c);
    System.out.println("This is the better code");
-   lakslklakdal
+   System.out.println("better code");
+   
   }
  }
  
